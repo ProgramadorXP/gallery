@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #101010;
+    min-height: 100vh;
+    font-family: 'Monserrat', sans-serif;
+}
+a:focus, button:focus {
+    outline: none;
+}
